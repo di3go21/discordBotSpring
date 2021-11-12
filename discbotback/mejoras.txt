@@ -1,0 +1,8 @@
+
+- especificar que la contraseña no es de discord
+
+- listar los usuarios
+
+- posibilidad de editar la descipcion de un audio
+
+- aclarar que seleccionar es elegir tu entradilla

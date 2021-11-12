@@ -1,0 +1,4 @@
+
+
+servidor redis
+base de datos mariadb usuario discord pass discord
